@@ -1,7 +1,7 @@
-# *Clonación te la interfaz de Google, creado con HTML5  y CSS3 en el bootcamp de Tecnolochicas PRO*
+# ✨✨✨ *Clonación te la interfaz de Google, creado con HTML5  y CSS3 en el bootcamp de Tecnolochicas PRO* ✨✨✨
 
-## ÍNDICE
-1. Intro
+## ÍNDICE🐰
+1. Intro 
 2. Que construí
 3. Objetivo del proyecto
 4. Link a demo
@@ -23,4 +23,4 @@ Contiene la siguientes secciones:
 Aprender a utilizar las etiquetas de HTML5 y CSS3.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)🎇✨
